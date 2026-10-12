@@ -8,7 +8,7 @@ Built using the [Universal Modder](https://github.com/rehan-remade/universal-mod
 
 ---
 
-## ⚡ Quick Start
+##  Quick Start
 
 1. Double-click **`Setup.bat`**
    - Automatically detects your Steam installation of *Baldi's Basics Plus*.
@@ -19,7 +19,7 @@ Built using the [Universal Modder](https://github.com/rehan-remade/universal-mod
 
 ---
 
-## 📦 Adding Mods to the Modpack
+##  Adding Mods to the Modpack
 
 Your Minecraft instance is a genuine **Prism Launcher 26.2 Fabric modpack**.
 You can add any compatible Fabric mod directly:
@@ -33,7 +33,7 @@ You can add any compatible Fabric mod directly:
 
 ---
 
-## 🎒 Baldi's Basics Items in Minecraft Inventory
+##  Baldi's Basics Items in Minecraft Inventory
 
 When you pick up items in Baldi's Basics Plus, they are synchronized straight into your Minecraft player inventory:
 * **BSODA / Diet BSODA** $\rightarrow$ Potion item with spray action
@@ -51,7 +51,7 @@ Dropping or using items updates both games in real time.
 
 ---
 
-## 💬 Chat and the `/pause` Command (Essential Mod)
+##  Chat and the `/pause` Command (Essential Mod)
 
 * **Opening the Minecraft Pause Menu**:
   - Type `/pause` in chat, or press **Escape** / **F10**.
@@ -63,7 +63,7 @@ Dropping or using items updates both games in real time.
 
 ---
 
-## 🎮 Controls
+##  Controls
 
 | Key | Action |
 |---|---|
